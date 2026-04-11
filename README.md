@@ -47,6 +47,16 @@ Key features:
 
 ---
 
+## Methodology
+
+- Cleaned and standardized advertising dataset (no missing values or duplicates)  
+- Aggregated advertising frequency by brand, industry, and placement type  
+- Calculated total exposure across placement locations (in-venue, broadcast, digital)  
+- Built pivot tables to compare industry and brand exposure across sports  
+- Visualized results using bar charts for business interpretation
+
+---
+
 ##  Key Analysis Performed
 - Top brands by advertising frequency
 - Industry-level advertising comparison
@@ -63,6 +73,15 @@ Key features:
 - In-venue advertising has the highest exposure frequency compared to broadcast
 - Placement types such as commercials and signage drive visibility
 - Brand exposure is evenly distributed across major sports leagues
+
+---
+
+## Target Audience
+
+- Marketing analysts  
+- Media planners  
+- Brand strategists  
+- Sports sponsorship teams
 
 ---
 
